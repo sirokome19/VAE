@@ -1,0 +1,6 @@
+data
+mnist_cnnvae
+mnist_vae
+result
+.ipynb_checkpoints/
+.vector_cache/
